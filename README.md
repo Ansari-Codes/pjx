@@ -98,7 +98,9 @@ if (x === 10) {
   - [Design Philosophy](#design-philosophy)
   - [License](#license)
 - [👨‍💻 About me:](#-about-me)
-- [This project was vibecoded with GLM-4.7!](#this-project-was-vibecoded-with-glm-47)
+- [This project was vibecoded with GLM-5.1!](#this-project-was-vibecoded-with-glm-51)
+- [LOGO](#logo)
+
 
 ---
 
@@ -1127,8 +1129,8 @@ I am Muhammad Abubakar Siddique Ansari, a 1st-year ICS student at KIPS College, 
 
 Portfolio: [ansari-codes.github.io/portfolio](ansari-codes.github.io/portfolio)
 
-# This project was vibecoded with GLM-4.7!
+# This project was vibecoded with GLM-5.1!
 
-# LOGO/TRADEMARK
+# LOGO
 ![logo](/static/logo.svg)
 
