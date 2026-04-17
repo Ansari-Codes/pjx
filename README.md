@@ -20,7 +20,7 @@ y = Let("y", 0)
 with While(y < 10):
     y.set(y + 1)
 
-Print("Final value of y is `${y}`.")
+Print("Final value of y is ${y}.")
 
 JavaScript.save_this_file("compiled.py.js")
 ```
@@ -48,7 +48,7 @@ console.log(`Final value of y is ${y}.`);
 
 ## How PJX Would Map Features:
 
-| PJX Syntax | JavaScript Output |
+| PJX Syntax |` JavaScript Output |
 |------------|-------------------|
 | `Let("x", 10)` | `let x = 10;` |
 | `x = Let("x", 10)` | Returns a `VarProxy` that knows its name |
