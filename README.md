@@ -1,4 +1,4 @@
-# PJx — Write JavaScript in Python
+![Banner](/static/banner.png)
 
 > **P**ython **J**avaScript e**x**change — Use Python syntax to programmatically generate JavaScript code.
 
@@ -1128,3 +1128,7 @@ I am Muhammad Abubakar Siddique Ansari, a 1st-year ICS student at KIPS College, 
 Portfolio: [ansari-codes.github.io/portfolio](ansari-codes.github.io/portfolio)
 
 # This project was vibecoded with GLM-4.7!
+
+# LOGO/TRADEMARK
+![logo](/static/logo.svg)
+
